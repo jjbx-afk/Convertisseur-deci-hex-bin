@@ -1,7 +1,7 @@
 # deci-hex-bin Converter 
 
 This is one of my first apprenticeship projects.
-I created a Google Sheets tool that converts numbers between:
+I created a Google Sheets tool that converts numbers between :
 
 - Decimal → Binary & Hexadecimal
 - Binary → Decimal & Hexadecimal
